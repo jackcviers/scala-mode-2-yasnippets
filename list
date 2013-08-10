@@ -1,0 +1,5 @@
+# -*- mode: scala-mode -*-
+# name: list
+# key: lis
+# --
+${1:a} :: ${2:Nil}$0

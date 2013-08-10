@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: arg4
+# key: arg4
+# binding: C-c C-x 4
+# --
+(${1:x}${2: :A}, ${3:y}${4: :B}, ${5:z}${6: :C}, ${7:a}${8: :D}) $0

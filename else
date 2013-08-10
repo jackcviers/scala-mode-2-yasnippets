@@ -1,0 +1,5 @@
+# -*- mode: scala-mode -*-
+# name: else
+# key: els
+# --
+else $0

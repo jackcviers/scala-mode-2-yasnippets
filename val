@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: val
+# key: val
+# binding: C-c C-x v
+# --
+`(scala-indent:indent-line)`val $0

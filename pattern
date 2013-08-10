@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: pattern
+# key: pat
+# binding: C-c C-x +
+# --
+${1:value @} ${2:Some}($3) ${4:if gaurd} ⇒ $0
