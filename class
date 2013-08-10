@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: class
+# key: cla
+# binding: C-c C-x S-c
+# --
+class $0

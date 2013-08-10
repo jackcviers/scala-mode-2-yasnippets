@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: object
+# key: obj
+# binding: C-c C-x o
+# --
+object $0

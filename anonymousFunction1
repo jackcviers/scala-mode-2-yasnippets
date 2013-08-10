@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: anonymousFunction1
+# key: an1
+# binding: C-c C-x f
+# --
+${1:x}${2::T} ⇒ $0

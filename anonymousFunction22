@@ -1,0 +1,30 @@
+# -*- mode: scala-mode -*-
+# name: anonymousFunction22
+# key: an22
+# --
+(
+`(scala-indent:indent-line)`${1:x}${2: :T1},
+`(scala-indent:indent-line)`${3:y}${4: :T2},
+`(scala-indent:indent-line)`${5:z}${6: :T3},
+`(scala-indent:indent-line)`${7:a}${8: :T4},
+`(scala-indent:indent-line)`${9:b}${10: :T5},
+`(scala-indent:indent-line)`${11:c}${12: :T6},
+`(scala-indent:indent-line)`${13:d}${14: :T7},
+`(scala-indent:indent-line)`${15:e}${16: :T8},
+`(scala-indent:indent-line)`${17:f}${18: :T9},
+`(scala-indent:indent-line)`${19:g}${20: :T10},
+`(scala-indent:indent-line)`${21:h}${22: :T11},
+`(scala-indent:indent-line)`${23:i}${24: :T12},
+`(scala-indent:indent-line)`${25:j}${26: :T13},
+`(scala-indent:indent-line)`${27:k}${28: :T14},
+`(scala-indent:indent-line)`${29:l}${30: :T15},
+`(scala-indent:indent-line)`${31:m}${32: :T16},
+`(scala-indent:indent-line)`${33:n}${34: :T17},
+`(scala-indent:indent-line)`${35:o}${36: :T18},
+`(scala-indent:indent-line)`${37:p}${38: :T19},
+`(scala-indent:indent-line)`${39:q}${40: :T20},
+`(scala-indent:indent-line)`${41:r}${42: :T21},
+`(scala-indent:indent-line)`${43:s}${44: :T22}
+`(scala-indent:indent-line)`) ⇒ {
+`(scala-indent:indent-line)`$0
+`(scala-indent:indent-line)`} 

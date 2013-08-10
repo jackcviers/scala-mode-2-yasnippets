@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: arg1
+# key: arg1
+# binding: C-c C-x 1
+# --
+(${1:x}${2: :T}) $0
