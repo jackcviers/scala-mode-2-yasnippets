@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: scala-mode -*-
 # name: arg0
 # key: arg
 # binding: C-c C-x 0

@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: scala-mode -*-
 # name: importAlias
 # key: imp=
 # binding: C-c C-x =

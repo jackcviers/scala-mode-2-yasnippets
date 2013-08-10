@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: scala-mode -*-
 # name: with
 # key: wit
 # binding: C-c C-x w

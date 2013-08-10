@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: scala-mode -*-
 # name: pattern
 # key: pat
 # binding: C-c C-x +

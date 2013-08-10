@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: scala-mode -*-
 # name: forFlatMap
 # key: for.
 # binding: C-c C-x M-f

@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: scala-mode -*-
 # name: extends
 # key: ext
 # binding: C-c C-x e

@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: scala-mode -*-
 # name: private
 # key: pri
 # binding: C-c C-x M-p

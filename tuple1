@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: scala-mode -*-
 # name: tuple1
 # key: tup
 # binding: C-c C-x M-t
