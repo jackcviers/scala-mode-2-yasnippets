@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: arg2
+# key: arg2
+# binding: C-c C-x 2
+# --
+(${1:x}${2: :A}, ${3:y}${4: :B}) $0

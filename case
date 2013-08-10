@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: case
+# key: cas
+# binding: C-c C-x c
+# --
+case $0

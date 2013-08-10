@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: anonymousFunction5
+# key: an5
+# --
+(
+`(scala-indent:indent-line)`${1:x}${2: :T1},
+`(scala-indent:indent-line)`${3:y}${4: :T2},
+`(scala-indent:indent-line)`${5:z}${6: :T3},
+`(scala-indent:indent-line)`${7:a}${8: :T4},
+`(scala-indent:indent-line)`${9:b}${10: :T5}
+`(scala-indent:indent-line)`) ⇒ {
+`(scala-indent:indent-line)`$0
+`(scala-indent:indent-line)`} 

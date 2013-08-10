@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: override
+# key: ove
+# binding: C-c C-x M-O
+# --
+override $0

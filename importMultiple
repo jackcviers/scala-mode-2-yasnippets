@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: import*
+# key: imp.
+# binding: C-c C-x _
+# --
+import ${1:com.banno.}\{$2\}

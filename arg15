@@ -1,0 +1,22 @@
+# -*- mode: snippet -*-
+# name: arg15
+# key: arg15
+# binding: C-c C-x 5
+# --
+(
+`(scala-indent:indent-line)`${1:x}${2: :A},
+`(scala-indent:indent-line)`${3:y}${4: :B},
+`(scala-indent:indent-line)`${5:z}${6: :C},
+`(scala-indent:indent-line)`${7:a}${8: :D},
+`(scala-indent:indent-line)`${9:b}${10: :E},
+`(scala-indent:indent-line)`${11:c}${12: :F},
+`(scala-indent:indent-line)`${13:d}${14: :G},
+`(scala-indent:indent-line)`${15:e}${16: :H},
+`(scala-indent:indent-line)`${17:f}${18: :I},
+`(scala-indent:indent-line)`${19:g}${20: :J},
+`(scala-indent:indent-line)`${21:h}${22: :K},
+`(scala-indent:indent-line)`${23:i}${24: :L},
+`(scala-indent:indent-line)`${25:j}${26: :M},
+`(scala-indent:indent-line)`${27:l}${28: :N},
+`(scala-indent:indent-line)`${29:m}${30: :O}
+`(scala-indent:indent-line)`) $0

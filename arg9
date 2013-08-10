@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: arg9
+# key: arg9
+# binding: C-c C-x 9
+# --
+(
+`(scala-indent:indent-line)`${1:x}${2: :A},
+`(scala-indent:indent-line)`${3:y}${4: :B},
+`(scala-indent:indent-line)`${5:z}${6: :C},
+`(scala-indent:indent-line)`${7:a}${8: :D},
+`(scala-indent:indent-line)`${9:b}${10: :E},
+`(scala-indent:indent-line)`${11:c}${12: :F},
+`(scala-indent:indent-line)`${13:d}${14: :G},
+`(scala-indent:indent-line)`${15:e}${16: :H},
+`(scala-indent:indent-line)`${17:f}${18: :I}
+`(scala-indent:indent-line)`) $0

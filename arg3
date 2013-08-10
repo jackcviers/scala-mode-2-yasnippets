@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: arg3
+# key: arg3
+# binding: C-c C-x 3
+# --
+(${1:x}${2: :A}, ${3:y}${4: :B}, ${5:z}${6: :C}) $0

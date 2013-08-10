@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: anonymousFunction4
+# key: an4
+# --
+(${1:x}${2: :T1}, ${3:y}${4: :T2}, ${5:z}${6: :T3}, ${7:a}${8: :T4}) ⇒ $0

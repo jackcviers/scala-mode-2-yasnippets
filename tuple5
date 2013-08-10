@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: tuple5
+# key: tu5
+# --
+(
+`(scala-indent:indent-line)`${1:a},
+`(scala-indent:indent-line)`${2:b},
+`(scala-indent:indent-line)`${3:c},
+`(scala-indent:indent-line)`${4:d},
+`(scala-indent:indent-line)`${5:e}
+`(scala-indent:indent-line)`) $0

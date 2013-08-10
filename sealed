@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sealed
+# key: sea
+# binding: C-c C-x s
+# --
+sealed $0

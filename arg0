@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: arg0
+# key: arg
+# binding: C-c C-x 0
+# --
+()$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: trait
+# key: tra
+# binding: C-c C-x t
+# --
+trait $0

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: arg5
+# key: arg5
+# binding: C-c C-x 5
+# --
+(
+`(scala-indent:indent-line)`${1:x}${2: :A},
+`(scala-indent:indent-line)`${3:y}${4: :B},
+`(scala-indent:indent-line)`${5:z}${6: :C},
+`(scala-indent:indent-line)`${7:a}${8: :D},
+`(scala-indent:indent-line)`${9:b}${10: :E}
+) $0

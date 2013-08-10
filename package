@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: package
+# key: pac
+# binding: C-c C-x p
+# --
+package ${1:com.banno.}$2
+

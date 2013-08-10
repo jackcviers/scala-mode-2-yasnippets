@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: forFlatMap
+# key: for.
+# binding: C-c C-x M-f
+# --
+for{
+`(scala-indent:indent-line)`${1:x} ← ${2:xs}
+`(scala-indent:indent-line)`${3:if }${4:gaurd}
+`(scala-indent:indent-line)`${5:y} ← ${6:x}
+`(scala-indent:indent-line)`${7:if }${8:gaurd}
+} yield $5
+$0

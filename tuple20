@@ -1,0 +1,26 @@
+# -*- mode: snippet -*-
+# name: tuple20
+# key: tu20
+# --
+(
+`(scala-indent:indent-line)`${1:a},
+`(scala-indent:indent-line)`${2:b},
+`(scala-indent:indent-line)`${3:c},
+`(scala-indent:indent-line)`${4:d},
+`(scala-indent:indent-line)`${5:e},
+`(scala-indent:indent-line)`${6:f},
+`(scala-indent:indent-line)`${7:g},
+`(scala-indent:indent-line)`${8:h},
+`(scala-indent:indent-line)`${9:i},
+`(scala-indent:indent-line)`${10:j},
+`(scala-indent:indent-line)`${11:k},
+`(scala-indent:indent-line)`${12:l},
+`(scala-indent:indent-line)`${13:m},
+`(scala-indent:indent-line)`${14:n},
+`(scala-indent:indent-line)`${15:o},
+`(scala-indent:indent-line)`${16:p},
+`(scala-indent:indent-line)`${17:q},
+`(scala-indent:indent-line)`${18:r},
+`(scala-indent:indent-line)`${19:s},
+`(scala-indent:indent-line)`${20:t}
+`(scala-indent:indent-line)`) $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: extends
+# key: ext
+# binding: C-c C-x e
+# --
+extends $0

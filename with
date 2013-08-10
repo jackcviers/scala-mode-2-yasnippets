@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: with
+# key: wit
+# binding: C-c C-x w
+# --
+with $0
