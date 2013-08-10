@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: importAlias
+# key: imp=
+# binding: C-c C-x =
+# --
+import ${1:com.banno.}\{$2 ⇒ $3\}

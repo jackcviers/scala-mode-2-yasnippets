@@ -1,0 +1,8 @@
+# -*- mode: scala-mode -*-
+# name: receive
+# key: rec
+# binding: C-c C-x M-r
+# --
+receive = {
+`(scala-indent:indent-line)`$0
+}

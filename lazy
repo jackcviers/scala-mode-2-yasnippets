@@ -1,0 +1,5 @@
+# -*- mode: scala-mode -*-
+# name: lazy
+# key: laz
+# --
+lazy $0

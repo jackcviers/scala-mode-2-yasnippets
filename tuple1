@@ -1,0 +1,6 @@
+# -*- mode: scala-mode -*-
+# name: tuple1
+# key: tup
+# binding: C-c C-x M-t
+# --
+(${1:a}) $0
