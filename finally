@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: finally
+# key: fin
+# --
+finally {
+`(scala-indent:indent-line)`$0
+`(scala-indent:indent-line)`}

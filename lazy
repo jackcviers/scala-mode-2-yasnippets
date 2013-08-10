@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: lazy
+# key: laz
+# --
+lazy $0

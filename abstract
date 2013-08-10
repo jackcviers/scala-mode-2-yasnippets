@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: abstract
+# key: abs
+# binding: C-C C-x M-a
+# --
+abstract $0

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: match
+# key: mat
+# binding: C-c C-x ,
+# --
+${1:x} match {
+`(scala-indent:indent-line)`$0
+}

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: try
+# key: try
+# --
+try {
+`(scala-indent:indent-line)`$0
+`(scala-indent:indent-line)`} catch {
+`(scala-indent:indent-line)`case ${1:exception} ⇒ ${2:something}
+`(scala-indent:indent-line)`}

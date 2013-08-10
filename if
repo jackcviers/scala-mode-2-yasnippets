@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: if
+# key: ifc
+# --
+if (${1:conditional}) $0
